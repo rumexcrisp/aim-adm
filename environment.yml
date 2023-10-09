@@ -1,0 +1,8 @@
+name: aim_adm
+channels:
+    - conda-forge
+dependencies:
+  - black
+  - numpy
+  - pandas
+  - ipykernel
