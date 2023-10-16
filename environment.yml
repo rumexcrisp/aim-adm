@@ -3,8 +3,10 @@ channels:
     - conda-forge
 dependencies:
   - black
+  - dask
   - ipykernel
   - matplotlib
+  - mimesis
   - numpy
   - pandas
   - seaborn
