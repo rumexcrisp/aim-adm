@@ -4,6 +4,7 @@ channels:
 dependencies:
   - black
   - dask
+  - ipycytoscape
   - ipykernel
   - matplotlib
   - mimesis
