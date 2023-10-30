@@ -1,6 +1,7 @@
 name: aim_adm
 channels:
     - conda-forge
+    - pytorch
 dependencies:
   - black
   - dask
@@ -11,3 +12,4 @@ dependencies:
   - numpy
   - pandas
   - seaborn
+  - pytorch:pytorch
