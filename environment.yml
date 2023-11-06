@@ -13,3 +13,4 @@ dependencies:
   - pandas
   - seaborn
   - pytorch:pytorch
+  - scikit-learn
