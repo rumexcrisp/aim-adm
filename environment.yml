@@ -11,6 +11,9 @@ dependencies:
   - mimesis
   - numpy
   - pandas
-  - seaborn
   - pytorch:pytorch
+  - pytorch:torchvision
   - scikit-learn
+  - seaborn
+  - tensorboard
+  - torchmetrics
